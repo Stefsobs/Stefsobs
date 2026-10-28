@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Stefsobs
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning REACT
 - 📫 How to reach me: sdsobstad@gmail.com
 
 <!---
